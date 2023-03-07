@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer className='bg-black text-white h-[300px] relative'>
 
-        <div className='text-2xl lg:text-3xl w-full flex justify-center items-center gap-10 social-media absolute bottom-48'>
+        <div className='text-4xl w-full flex justify-center items-center gap-10 social-media absolute bottom-48'>
             <a href="https://www.facebook.com/people/Stilingas-%C5%AAsas/100070168009614/" target='_blank'><BsFacebook /></a>
             <a href="https://www.tiktok.com/@stilingasusas" target='_blank'><FaTiktok /></a>
         </div>
