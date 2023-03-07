@@ -11,7 +11,7 @@ const Home = () => {
         <div className='flex flex-col lg:flex-row justify-between items-center xl:px-20'>
             {/* 1 */}
             <div className='w-full lg:w-1/2'>
-                <img src={dog1} alt="" className='w-96 max-w-md mx-auto rounded-full mt-5' />
+                <img src={dog1} alt="" className='w-80 max-w-md mx-auto rounded-full mt-5' />
             </div>
 
             {/* 2 */}
@@ -25,7 +25,7 @@ const Home = () => {
         <div className='flex flex-col lg:flex-row-reverse justify-between items-center my-32 xl:px-20'>
             {/* 1 */}
             <div className='w-full lg:w-1/2'>
-                <img src={dog2} alt="" className='w-96 max-w-md mx-auto rounded-full' />
+                <img src={dog2} alt="" className='w-80 max-w-md mx-auto rounded-full' />
             </div>
 
             {/* 2 */}
@@ -39,7 +39,7 @@ const Home = () => {
         <div className='flex flex-col lg:flex-row justify-between items-center my-32 xl:px-20'>
             {/* 1 */}
             <div className='w-full lg:w-1/2'>
-                <img src={dog3} alt="" className='w-96 max-w-md mx-auto rounded-full' />
+                <img src={dog3} alt="" className='w-80 max-w-md mx-auto rounded-full' />
             </div>
 
             {/* 2 */}

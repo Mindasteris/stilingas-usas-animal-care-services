@@ -11,7 +11,7 @@ const Contacts = () => {
         <div className='flex flex-col lg:flex-row justify-between text-center'>
             {/* Address */}
             <div className='text-center lg:text-left w-full lg:w-1/2'>
-                <address className='text-xl lg:text-2xl pb-8'>
+                <address className='text-xl  pb-8'>
                     Melioratorių g. LT-96141, Gargždai
                 </address>
                 
