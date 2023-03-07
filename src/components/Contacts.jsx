@@ -11,7 +11,7 @@ const Contacts = () => {
         <div className='flex flex-col lg:flex-row justify-between text-center'>
             {/* Address */}
             <div className='text-center lg:text-left w-full lg:w-1/2'>
-                <address className='text-xl  pb-8'>
+                <address className='text-xl pb-4'>
                     Melioratorių g. LT-96141, Gargždai
                 </address>
                 
@@ -22,7 +22,7 @@ const Contacts = () => {
             {/* Work Time */}
             <div className='w-full lg:w-1/2'>
                 <h2 className='text-xl font-bold'>Darbo Laikas:</h2>
-                <ul className='mt-10 space-y-2'>
+                <ul className='mt-4 space-y-2'>
                     <li>Pirmadienis - 09-16</li>
                     <li>Antradienis - 09-16</li>
                     <li>Trečiadienis - 09-16</li>
